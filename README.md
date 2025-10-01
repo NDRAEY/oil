@@ -36,9 +36,9 @@ fn main() {
 ### ToDo
 - [x] make anonymous founctions expressions
 	- [x] make type annotations for functions: ```let a: fn(): int = f```
-- [ ] make check for main function and module in project
+- [x] make check for main function and module in project
 - [ ] make for loop
     - [ ] make analyze and compilation for codegen
 - [ ] add invalid names as js keywords, such as `class`, `function`, etc...
-- [ ] foreign functions mechanism
-- [ ] different runtimes
+- [x] foreign functions mechanism
+- [X] different runtimes
